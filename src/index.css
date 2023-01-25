@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background: #F5F5F5;
+}
+
+.BarraLateral {
+  display: inline-block;
+  width: 290px;
+  height: 1152px;
+  background: #FFFFFF;
+  border-radius: 0px;
+}
+
+.Principal {
+  display: inline-block;
+  position: absolute;
+  width: 1610px;
+  height: 1654px;
+  left: 290px;
+  top: 49px;
+}
